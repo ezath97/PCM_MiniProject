@@ -1,0 +1,27 @@
+{
+    "1": {
+        "Name": "Rose",
+        "Price": "12",
+        "Stock": "212"
+    },
+    "2": {
+        "Name": "Lilly",
+        "Price": "32",
+        "Stock": "122"
+    },
+    "3": {
+        "Name": "Orchid",
+        "Price": "32",
+        "Stock": "121"
+    },
+    "4": {
+        "Name": "Gerberas",
+        "Price": "12",
+        "Stock": "213"
+    },
+    "5": {
+        "Name": "carnations",
+        "Price": "21",
+        "Stock": "323"
+    }
+}
